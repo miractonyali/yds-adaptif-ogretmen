@@ -1,0 +1,9 @@
+{
+  "name": "YDS 19 Aralık – Adaptif Öğretmen",
+  "short_name": "YDS Öğretmen",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "description": "19 Aralık 2026 e-YDS için kalıcı hafızalı adaptif çalışma uygulaması."
+}
